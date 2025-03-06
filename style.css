@@ -1,4 +1,53 @@
-   color midnightblue;
-    background-color moccasin;
-    font-family "Shadows Into Light", cursive, Arial, Helvetica, sans-serif;  
-    
+/* i am trying my best here */
+head{
+   color: rgb(61, 2, 2);
+   text-align: center;
+   border: 100% black;
+   padding: bottom 100%;
+}
+
+body{
+   color: midnightblue;
+   background-color: moccasin;
+   font-family: font-family "Shadows Into Light", cursive, Arial, Helvetica, sans-serif;
+   font-style: normal;
+   font-weight: normal;
+   font-variant: normal;
+   text-align: center;
+   margin: 30px;
+   padding: 40px;
+   box-sizing: border-box;
+   
+}
+
+#endding{
+   color: rgb(176, 41, 217);
+   text-align: center;
+   font-weight: bold;
+}
+p{
+   line-height: 2;
+   text-align: left;
+}
+h1, h2 {
+   font-weight: bold;
+   font-style: italic;
+}
+ul, ol{
+   text-align: left;
+}
+footer{
+   text-align: center;
+   font-weight: bold;
+   margin: 10%;
+   .shortie {
+      border: 1px black;
+      padding-top: 15px;
+      max-width: 1000;
+      margin: 0 auto;
+   }
+
+}
+.h1-stuff{
+   color: black;
+}

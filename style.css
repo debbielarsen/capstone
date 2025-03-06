@@ -1,13 +1,19 @@
 /* i am trying my best here */
 head{
+   
    color: rgb(61, 2, 2);
    text-align: center;
    border: 100% black;
    padding: bottom 100%;
+   .shortie {
+      background-color: rgb(48, 28, 3);
+      max-width: 100%;
+
+   }
 }
 
 body{
-   color: midnightblue;
+   color: #4d4d52;
    background-color: moccasin;
    font-family: font-family "Shadows Into Light", cursive, Arial, Helvetica, sans-serif;
    font-style: normal;
@@ -17,6 +23,25 @@ body{
    margin: 30px;
    padding: 40px;
    box-sizing: border-box;
+   
+   
+   
+}
+.banner{
+   background-image: url("./images/moroccan-flower-dark.png");
+   height: 100px;
+}
+.shortie {
+   border: 1px black;
+   padding-top: 15px;
+   max-width: 1000;
+   margin: auto;
+}
+.h3-stuff {
+   background-color: rgb(48, 28, 3);
+   max-width: 100%;
+   margin: auto;
+   color: bisque;
    
 }
 
@@ -40,12 +65,7 @@ footer{
    text-align: center;
    font-weight: bold;
    margin: 10%;
-   .shortie {
-      border: 1px black;
-      padding-top: 15px;
-      max-width: 1000;
-      margin: 0 auto;
-   }
+   
 
 }
 .h1-stuff{
